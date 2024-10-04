@@ -1576,7 +1576,9 @@ i {
         font-size: 26px;
     }
 
-
+    .slider-six-img{
+        height: 270px !important;
+    }
 
     .section-six-outer {
         padding: 4px 16px;
